@@ -1,0 +1,3 @@
+tox.dkay.xyz|Hey! It's my website!|https://tox.dkay.xyz/;
+dkay.xyz|Visit the one who gave me this domain! Which, by the way... thank you :D|https://dkay.xyz/;
+Beans|Beans|?action=bean|check.php
